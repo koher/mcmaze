@@ -9,7 +9,7 @@ This is a script to generate a huge maze in a Minecraft world.
 5. Clone this repository: `git clone https://github.com/koher/mcmaze.git`
 6. Run the script: `cd mcmaze` and `swift run`
 
-## Requirement
+## Requirements
 
 - Swift 5.1 or later
 
